@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Size_Count", "File_Size_Count\File_Size_Count.csproj", "{A4E696EC-B52F-42B5-819D-908C8B6706B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSize_Recursive", "FileSize_Recursive\FileSize_Recursive.csproj", "{A4E696EC-B52F-42B5-819D-908C8B6706B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
